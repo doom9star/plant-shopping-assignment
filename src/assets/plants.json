@@ -1,0 +1,70 @@
+{
+  "houseplants": {
+    "Low-Maintenance": [
+      {
+        "name": "Snake Plant",
+        "price": 500,
+        "description": "A hardy plant that thrives in low light.",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVPSD3p2lRYUX9wJP7Dkj9_u5uvvz5_CflXmSQ2K8Nq7WnHZUX"
+      },
+      {
+        "name": "ZZ Plant",
+        "price": 450,
+        "description": "Tolerates neglect and low water conditions.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymTwNCHKv0vehExnVl8teufdcfc9nDP88OMDBF-mHMM32HSEW"
+      },
+      {
+        "name": "Pothos",
+        "price": 300,
+        "description": "Great for beginners, grows quickly.",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvnUwliUVCUtD8ha5v-Tyl4d_u1UQarpGcaDnne6DM9FyGs0Sw"
+      }
+    ],
+    "Flowering": [
+      {
+        "name": "Peace Lily",
+        "price": 600,
+        "description": "Known for its white flowers and air-purifying properties.",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEPjxcWlz_XDV5FidVZD74OskyufueS2EmE8vKHAYSH-n_x_IT"
+      },
+      {
+        "name": "African Violet",
+        "price": 350,
+        "description": "Produces clusters of purple flowers.",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV_g8MPkDIjdYdXXZ2oJPMkrBJNMydiNXyYxn13walCDAsNrK7"
+      },
+      {
+        "name": "Anthurium",
+        "price": 750,
+        "description": "Bright red flowers that add vibrancy.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLKX2G5KkpckP9oMaXRUr-b86M7zCCE7F6Vfne9Xl1EUXoD3h"
+      }
+    ],
+    "Air-Purifying": [
+      {
+        "name": "Aloe Vera",
+        "price": 400,
+        "description": "Succulent with medicinal benefits.",
+        "image": "https://i0.wp.com/theaffordableorganicstore.com/wp-content/uploads/2022/02/Products-49.jpg"
+      },
+      {
+        "name": "Spider Plant",
+        "price": 320,
+        "description": "Popular for removing indoor air pollutants.",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSux6kO0taCUwnO9WGo2kfYHKZS3t944L90Qmxh75aARRI_0BP6"
+      },
+      {
+        "name": "Areca Palm",
+        "price": 1000,
+        "description": "Tropical plant that humidifies indoor air.",
+        "image": "https://urbano.in/wp-content/uploads/2019/12/Areca-Palm-plant.jpg"
+      },
+      {
+        "name": "Rubber Plant",
+        "price": 550,
+        "description": "Known for its glossy leaves.",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjwuzs9L9moIjfr6_5RbDmLCtzki4VCZwhBvzX5Jys0TckduNt"
+      }
+    ]
+  }
+}
